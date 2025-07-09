@@ -1,0 +1,27 @@
+.clock-container {
+    background-color: #1a237e;  /* Xanh đậm */
+    color: white;               /* Chữ trắng */
+    font-weight: bold;          /* In đậm */
+    font-size: 24px;            /* Cỡ chữ lớn */
+    padding: 16px 32px;         /* Padding dọc 16px, ngang 32px */
+    border-radius: 12px;        /* Bo góc */
+    text-align: center;         /* Căn giữa chữ */
+    width: fit-content;         /* Vừa với nội dung */
+    margin: 40px auto;          /* Canh giữa theo chiều ngang và cách top 40px */
+}
+
+.car-selection {
+    margin: 0 auto;
+    border: 1px solid gray;
+    width: 500px;
+    border-radius: 2rem;
+    padding: 6px;
+}
+
+.count-down{
+    margin: 1rem auto;
+    border: 1px solid gray;
+    border-radius: 2rem;
+    width: 200px;
+    padding: 6px;
+}
